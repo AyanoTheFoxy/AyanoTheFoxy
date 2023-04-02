@@ -1,6 +1,6 @@
 ### Hi everyone
 
-i'm a student i'm devloping for two months
+i'm a student, i'm devloping for two months, i have 14 years old, i'm making my frist project the iridium a map editor for mobile
 
 - 🔭 I’m currently working on Iridium on OFT
 - 🌱 I’m currently learning Lua 
