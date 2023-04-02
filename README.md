@@ -1,5 +1,7 @@
 ### Hi everyone
 
+i'm a student i'm devloping
+
 - 🔭 I’m currently working on Iridium on OFT
 - 🌱 I’m currently learning Lua 
 - 👯 I’m looking to collaborate with everyone
