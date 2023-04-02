@@ -8,3 +8,4 @@ i'm a student i'm devloping for two months
 - 🤔 I’m looking for help with my skills
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love foxes
+![AyanoTheFoxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanothefoxy&show_icons=true&theme=monokai)
