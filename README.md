@@ -1,6 +1,6 @@
 ### Hi everyone
 
-i'm a student i'm devloping for a month
+i'm a student i'm devloping for two months
 
 - 🔭 I’m currently working on Iridium on OFT
 - 🌱 I’m currently learning Lua 
