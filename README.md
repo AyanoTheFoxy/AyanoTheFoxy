@@ -3,7 +3,7 @@
 i'm a student, i'm devloping for two months, i have 14 years old, i'm making my frist project the iridium a map editor for mobile
 
 - 🔭 I’m currently working on Iridium on OFT
-- 🌱 I’m currently learning Lua, Python, C++, Html, Css, Javascript and more trying all on mobile because i not have a computer
+- 🌱 I’m currently learning Lua, Python, C, C++, Html, Css, Javascript and more trying all on mobile because i not have a computer
 - 👯 I’m looking to collaborate with everyone
 - 🤔 I’m looking for help with my skills
 - 😄 Pronouns: he/him
