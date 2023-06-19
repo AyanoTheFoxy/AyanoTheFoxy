@@ -1,8 +1,8 @@
 ### Hi everyone
 
-i'm a student, i'm devloping for tree months, i have 14 years old, i'm making my frist project the iridium a map editor for mobile
+i'm a student, i'm devloping for six months, i have 15 years old
 
-- 🔭 I’m currently working on my lib math.py and on iridium
+- 🔭 I’m currently working on pixelmoon
 - 🌱 I’m currently learning Lua, Python, Html, Css, Javascript and more trying all on mobile because i haven't a computer, a day i gonna to have a computer!
 - 👯 I’m looking to collaborate with everyone
 - 🤔 I’m looking for help with my skills
